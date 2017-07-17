@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "976049912192",
+    "firebase_url": "https://geeksnome.firebaseio.com",
+    "project_id": "geeksnome",
+    "storage_bucket": "geeksnome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976049912192:android:c71df9fcb65665f8",
+        "android_client_info": {
+          "package_name": "com.ajay.geeksnome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976049912192-3q7ihqsvf984h8tl3lsiosue85vso5mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajay.geeksnome",
+            "certificate_hash": "ef10422d3f93d06332335d3bf2b7eef3ac0e7e5f"
+          }
+        },
+        {
+          "client_id": "976049912192-6jjocih0dnuirafqlg6mia587k8vs1ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQTVVp_jdCTKz8npANXGgmfW4Gqr_FT4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976049912192-6jjocih0dnuirafqlg6mia587k8vs1ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
